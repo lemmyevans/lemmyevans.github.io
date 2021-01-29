@@ -1,0 +1,125 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1.0">
+<title>River Bend Farm - Area Attractions</title>
+<link rel="stylesheet" href="River_Bend_Farm_Stylesheet.css">
+<link rel="shortcut icon" href="River_Bend_Farm_Icon.png">
+</head>
+<body>
+<div id="header">
+	<img id ="banner" src="river_bend_banner.png" alt="River Bend Farm">
+</div>
+<div id="sidebar">
+	<div id="nav">
+		<ul id="navli"> 
+			<li><a href="Home.html">Home</a></li>
+			<li><a href="About_Us.html">About Us</a></li>
+			<li><a href="Rooms_and_Rates.html">Rooms and Rates</a></li>
+			<li><a href="Area_Attractions.html" id="hereb">Area Attractions</a></li>
+		</ul>
+	</div>
+	<div id="contact">
+		<p class="text" style="text-align:center;"><strong>Open April - October</strong></p>
+		<p class="text" style="text-align:center;"><strong>Contact:</strong></p>
+		<p class="text" style="text-align:center;">(413)-458-3121</p>
+		<p class="text" id="resizetext" style="text-align:center;"><a href="mailto: riverbendfarmbb@gmail.com">riverbendfarmbb@gmail.com</a></p>
+		<p class="text" style="text-align:center;"><strong><br>Address:</strong></p>
+		<p class="text" style="text-align:center;"> 643 Simonds Road, Williamstown, MA 01267</p>
+	</div>
+</div>
+<div id="main">
+	<div>
+		<p class="maintext" style="width:95%"><em>Located on Route 7 in Williamstown, Massachusetts, <strong>River Bend Farm Bed &amp; Breakfast</strong> is minutes from Williams College, the Clark Art Institue, the Williamstown Theatre Festival and numerous other local cultural attractions some of which are listed below with links to their websites.</em></p>
+	</div>	
+	<div style="text-align:center;">
+	<div>
+		<div class="gallery">
+			<a target="_blank" href="https://www.creativeground.org/profile/bennington-center-arts-0">
+			<img src="the_bennington_2.jpg" alt="Bennington Center" class="cropped"></a>
+			<p class="desc" style="text-align:center;">Bennington Center for Natural and Cultural Arts</p>
+		</div>
+		<div class="gallery">
+			<a target="_blank" href="http://www.clarkart.edu/"><img src="the_clark.jpg" alt="Clark Art Institute"></a>
+			<p class="desc" style="text-align:center;">Clark Art Institute</p>
+		</div>
+		<div class="gallery">
+			<a target="_blank" href="http://www.jacobspillow.org/"> <img src="jacobs_pillow.jpg" alt="Jacob's Pillow"></a>
+			<p class="desc" style="text-align:center;">Jacob's Pillow</p>
+		</div>
+		<div class="gallery">
+			<a target="_blank" href="http://www.massmoca.org"><img src="mass_moca.jpg" alt="Mass MoCA"></a>
+			<p class="desc" style="text-align:center;">Mass MoCA</p>
+		</div>
+		<div class="gallery">
+			<a target="_blank" href="http://www.nrm.org/"><img src="norman_rockwell_museum.jpg" alt="Norman Rockwell Museum"></a>
+			<p class="desc" style="text-align:center;">Norman Rockwell Museum</p>
+		</div>
+		<div class="gallery">
+			<a target="_blank" href=" https://www.bso.org/Home"><img src="tanglewood_2.png"  alt="Tanglewood"></a>
+			<p class="desc" style="text-align:center;">Tanglewood</p>
+		</div>
+		<div class="gallery">
+			<a target="_blank" href=" https://artmuseum.williams.edu/"><img src="wcma.jpg" alt="Williams College Museum of Art"></a>
+			<p class="desc" style="text-align:center;">Williams College Museum of Art</p>
+		</div>
+		<div class="gallery">
+			<a target="_blank" href="http://wtfestival.org/"><img src="williamstown_theatre_festival.jpg" alt="Williamstown Theatre Festival"></a>
+			<p class="desc" style="text-align:center;">Williamstown Theatre Festival</p>
+		</div>
+	</div>
+	<div>
+		<div class="gallery">
+			<a target="_blank" href="https://specialcollections.williams.edu/"><img src="chapin.jpg" alt="Special Collections at Williams College"></a>
+			<p class="desc" style="text-align:center;">Special Collections at Williams College</p>
+		</div>
+		<div class="gallery">
+			<a target="_blank" href="http://www.hancockshakervillage.org/"><img src="hancock_shaker_village.jpg" alt="Hancock Shaker Village"></a>
+			<p class="desc" style="text-align:center;">Hancock Shaker Village</p>
+		</div>
+		<div class="gallery">
+			<a target="_blank" href="http://www.historic-deerfield.org/"><img src="deerfield.jpg" alt="Historic Deerfield"></a>
+			<p class="desc" style="text-align:center;">Historic Deerfield</p>
+		</div>
+		<div class="gallery">
+			<a target="_blank" href="http://northadamshistory.org/"><img src="historic_north_adams.jpg" alt="North Adams Historical Society"></a>
+			<p class="desc" style="text-align:center;">North Adams Historical Society</p>
+		</div>
+	</div>
+	<div>
+		<div class="gallery">
+			<a target="_blank" href="https://www.bennington.edu/"><img src="bennington_college.jpg" alt="Bennington College"></a>
+			<p class="desc" style="text-align:center;">Bennington College</p>
+		</div>
+		<div class="gallery">
+			<a target="_blank" href="https://www.berkshirecc.edu/"><img src="berkshire_community_college.jpg" alt="Berkshire Community College"></a>
+			<p class="desc" style="text-align:center;">Berkshire Community College</p>
+		</div>
+		<div class="gallery">
+			<a target="_blank" href="https://buxtonschool.org/"><img src="buxton_school.jpg" alt="Buxton School"></a>
+			<p class="desc" style="text-align:center;">Buxton School</p>
+		</div>
+		<div class="gallery">
+			<a target="_blank" href="https://www.mcla.edu/"><img src="mcla.jpg" alt="Massachusettes College of Liberal Arts"></a>
+			<p class="desc" style="text-align:center;">Massachusettes College of Liberal Arts</p>
+		</div>
+		<div class="gallery">
+			<a target="_blank" href="https://www.williams.edu/"><img src="williams_college.jpg" alt="Williams College"></a>
+			<p class="desc" style="text-align:center;">Williams College</p>
+		</div>
+	</div>
+	<div>
+		<div class="gallery">
+			<a target="_blank" href="https://www.mass.gov/visit-massachusetts-state-parks"><img src="massachusetts-state-parks.jpg" alt="Massachusetts State Parks"></a>
+			<p class="desc" style="text-align:center;">Massachusetts State Parks</p>
+		</div>
+		<div class="gallery">
+			<a target="_blank" href="https://thetrustees.org/content/weekend-trip-to-berkshires/"><img src="mountain_meadow.jpg" alt="Massachusetts State Parks"></a>
+			<p class="desc" style="text-align:center;">The Trustees of Reservations - Berkshires</p>
+		</div>
+	</div>
+	</div>
+</div>
+
+</body>
+</html>

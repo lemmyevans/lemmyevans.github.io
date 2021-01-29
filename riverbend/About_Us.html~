@@ -1,0 +1,71 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1.0">
+<title>River Bend Farm - About Us</title>
+<link rel="stylesheet" href="River_Bend_Farm_Stylesheet.css">
+<link rel="shortcut icon" href="River_Bend_Farm_Icon.png">
+</head>
+<body>
+<div id="header">
+	<img id ="banner" src="river_bend_banner.png" alt="River Bend Farm">
+</div>
+<div id="sidebar">
+	<div id="nav">
+		<ul id="navli"> 
+			<li><a href="Home.html">Home</a></li>
+			<li><a href="About_Us.html" id="herem">About Us</a></li>
+			<li><a href="Rooms_and_Rates.html">Rooms and Rates</a></li>
+			<li><a href="Area_Attractions.html">Area Attractions</a></li>
+		</ul>
+	</div>
+	<div id="contact">
+		<p class="text" style="text-align:center;"><strong>Open April - October</strong></p>
+		<p class="text" style="text-align:center;"><strong>Contact:</strong></p>
+		<p class="text" style="text-align:center;">(413)-458-3121</p>
+		<p class="text" id="resizetext" style="text-align:center;"><a href="mailto: riverbendfarmbb@gmail.com">riverbendfarmbb@gmail.com</a></p>
+		<p class="text" style="text-align:center;"><strong><br>Address:</strong></p>
+		<p class="text" style="text-align:center;">643 Simonds Road, Williamstown, MA 01267</p>
+	</div>
+</div>
+<div id="main">
+  <h2 style="text-align:center"> About Us </h2>
+	<div>
+		<img src="dave_and_judy_loomis.jpg" alt="Innkeepers Dave and Judy" style="display:block; width:60%; margin-left:auto; margin-right:auto;">
+		<p class="maintext" style="width: 95%"><em>For more than 30 years, guests at <strong>River Bend Farm Bed &amp; Breakfast</strong> have been provided with a unique historical experience combined with modern amenities.</em></p>
+		<p class="maintext" style="width: 95%">The first owner of the land at River Bend Farm was Ephraim Sellye from 1766-1769. A year later, <a href="https://en.wikipedia.org/wiki/Benjamin_Simonds" target="_blank">Col. Benjamin Simonds</a> constructed the house that you now see at River Bend Farm Bed &amp; Breakfast. Innkeepers, Dave and Judy Loomis, seen below, are the eighth owners of the house and think of themselves more as caretakers than owners.</p>
+		<p class="maintext" style="width: 95%">River Bend Farm is individually listed on the National Register of Historic Places and a Certified Historic Structure.</p>
+		<p class="maintext" style="width: 95%;">From the original National Register Nomination Form:
+			<blockquote cite="https://mhc-macris.net/Details.aspx?MhcId=WLL.65" style="line-height: 1.75;"> "The interior of the Colonel Simond House retains a considerable degree of original detailing. This is seen primarily in the front rooms which contain early built-in cupboards, wainscoting and chair rails. In addition, the original raised panelling on the hearth wall and crown molding continue to exist in the north parlor. The kitchen also exhibits early features as seen in the original fireplace with its beehive oven and the wide vertical plank boards which form the walls of the room."
+			</blockquote>
+		</p>
+		<p class="maintext" style="width: 95%; line-height: 2.0;">
+		To learn more, read the <a href="https://mhc-macris.net/Details.aspx?MhcId=WLL.65" target="_blank">full document</a> on the Massachusetts Cultural Resource System or <strong>contact us to make a reservation</strong>.
+		</p>
+		<br>
+		<h3 style="color:#420B0B;">History</h3>
+		<img src="marcis_photo.PNG" alt="Main House" style="display:block; width:60%; margin-right:auto; margin-left:auto;">
+		<p class="maintext" style="width: 95%">
+		The original national register proposal reads:
+			<blockquote cite="https://mhc-macris.net/Details.aspx?MhcId=WLL.65" style="line-height: 1.75;">"In 1746 French soldiers and Indians overwhelmed the colonists at Fort Massachusetts. Among the group of captives was a young Benjamin Simonds, of Ware River, Massachusetts. On their march to Canada the prisoners were stopped at the ancient Indian camp just where the Hoosac River makes a long bend northward. As the only surviving captive of that terrible journey to Canada, Simonds returned to that same stopping place several years later and built the central chimney, plank house known as the River Bend Farm. He was one of Williamstown’s original 13 settlers, and the father of the first child born there. He became a prominent citizen of the town; a military and civic leader."</blockquote>
+		</p>
+		<p class="maintext" style ="width: 95%;">
+		Access the <a href="https://mhc-macris.net/Details.aspx?MhcId=WLL.65" target="_blank">full document</a> on the Massachusetts Cultural Resource Information System.
+		</p>
+		<h3 style="color:#420B0B;"><br>Reviews</h3>
+		<p class="maintext" style="width: 95%;">
+			Guest's reveiws of their stay at <strong>River Bend Farm Bed and Breakfast</strong> are overwhelmingly positive.
+			<blockquote cite="" style="line-height: 1.75;">"It is truly charming and comfortable, as are its owners, who serve a top-rate breakfast of garden-grown berries over housemade granola and yogurt, muffins and toast with the best house-canned jams I've ever tasted. Staying at the River Bend Farm B &amp; B was one of the many highlights of our time in Williamstown."</blockquote>
+			<span style="float:right; margin-right: 10%;">- TripAdvisor User David Brooks; Visited July 2020</span>
+			<blockquote cite="" style="line-height: 1.75;"><br><br>"This is an exceptional B &amp; B. It's not just that it's a wonderful 18th century building that has been restored perfectly. We've stayed here three or four times, and love the people we've met. It seems that the wonderful owners, David and Judy, know exactly what tone to set. They, and by extension, their guests are friendly and interesting, but in no way intrude upon one's sense of privacy."</blockquote>
+			<span style="float:right; margin-right: 10%;">- TripAdvisor User Werner L; Visited July 2019</span>
+			<blockquote cite="" style="line-height: 1.75;"><br><br>"The reason why we return is the ambience of the place--the original home of the founder of Williamstown--and kept that way. Dave and Judy are warm wonderful people who take great care of this gem. <br> They offer a healthy breakfast for their guests that we have found are always interestiing where we have a lively conversation that is stimulating and fun. They come from all facets of live and obviously are attracted to this unusal home. I have never found this environment anywhere else.<br> If you like interesting people in an unusal setting, River Bend Farm should be explored"</blockquote>
+			<span style="float:right; margin-right: 10%;">- TripAdvisor User mayville10; Visited August 2018</span>
+			<br><br>Several other reviews can be found on <a href="https://www.tripadvisor.com/Hotel_Review-g41940-d115842-Reviews-River_Bend_Farm-Williamstown_Massachusetts.html#REVIEWS">TripAdvisor</a>, we look forward to your stay.
+		</p>
+		<div style="height:100px;"></div>
+	</div>
+</div>
+
+</body>
+</html>
