@@ -204,10 +204,10 @@ p.desc {
 	}
 	
 	#slideshow {
-		width: 95%;
+	    width: 95%;
 		margin-left: auto;
 		margin-right:auto;
-		float:none;
+		float: left;
 	}
 	
 	.maintext {
