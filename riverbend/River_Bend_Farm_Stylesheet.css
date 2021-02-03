@@ -193,7 +193,8 @@ p.desc {
 	}
 	
 	#contact {
-		height: 290px;
+	    height: 150px;
+	    font-size: 10px; /*Making Contact Smaller*/
 	}
 	
 	#main {
