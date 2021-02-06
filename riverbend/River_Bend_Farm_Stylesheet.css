@@ -61,9 +61,9 @@ a {
 }
 
 #slideshow {
-		max-width: 60%;
-		margin-right: auto;
-		margin-left: auto;
+    display: block;
+    width: 100%;
+    float: left;
 }
 
 #stage {
