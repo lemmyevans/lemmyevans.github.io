@@ -57,6 +57,7 @@ a {
 		word-spacing: 1px;
 		float: left;
 		width: 45%;
+		display: block;
 		
 }
 
@@ -68,6 +69,7 @@ a {
 
 #stage {
     max-width: 60%;
+    min-width: 60%;
     margin-right: auto;
     margin-left: auto;
 }
