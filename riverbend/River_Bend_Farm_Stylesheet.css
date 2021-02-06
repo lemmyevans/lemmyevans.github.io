@@ -193,7 +193,7 @@ p.desc {
 	}
 	
 	#contact {
-	    height: 150px;
+	    height: 200px;
 	    font-size: 10px; /*Making Contact Smaller*/
 	}
 	
@@ -205,9 +205,9 @@ p.desc {
 	}
 	
 	#slideshow {
-	    width: 95%;
+	        width: 95%;
 		margin-left: auto;
-		margin-right:auto;
+		margin-right: auto;
 		float: left;
 	}
 	
