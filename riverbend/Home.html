@@ -30,7 +30,7 @@
 	</div>
 </div>
 <div id="main">
-	<div id="slideshow">
+	<div id="stage">
 		<img class="mySlides" src="River Bend -2.jpeg" alt="River Bend Farm" style="width:100%;">
 		<img class="mySlides" src="River Bend -12.jpeg" alt="River Bend Farm" style="width:100%;">
 		<img class="mySlides" src="River Bend -15.jpeg" alt="River Bend Farm" style="width:100%;">
@@ -41,6 +41,7 @@
 		<img class="mySlides" src="River Bend -33.jpeg" alt="River Bend Farm" style="width:100%;">
 		<img class="mySlides" src="River Bend -42.jpeg" alt="River Bend Farm" style="width:100%;">
 	</div>
+	<!--
 	<script>
 		var myIndex = 0;
 		carousel();
@@ -56,7 +57,22 @@
   		x[myIndex-1].style.display = "block";  
   		setTimeout(carousel, 2000); // Change image every 2 seconds
 		}
+	</script> -->
+	<script type="text/javascript">
+	  ///Original JavaScript code by Chrip Internet: www.chirp.com.au
+	  window.addEventListener("DOMContentLoaded", function(e) {
+
+	      var stage = document.getElementById("stage");
+	      var fadeComplete = function(e) { stage.appendChild(arr[0]); };
+	      var arr = stage.getElementsByTagName("a");
+	      for(var i=0; i < arr.length; i++) {
+		  arr[i].addEventListener("animationend", fadeComplete, false);
+	      }
+
+	  }, false);
+
 	</script>
+	
 	<p class="maintext" style="width: 95%;">Welcome to <strong>River Bend Farm</strong>, an authentically restored 1770 Georgian Colonial, once the home and tavern of Colonel Benjamin Simonds, a founder of Williamstown, now a boutique bed and breakfast operated for the enjoyment and comfort of history and antique lovers alike. Since 1980 we have offered our guests an 18th century experience with modern day conveniences. We invite you to choose from one of our bright, comfortable, and meticulously restored rooms. Enjoy a healthy home-made breakfast in the keeping room, relax by the fire and slip back in time.</p>
 </div>
 
