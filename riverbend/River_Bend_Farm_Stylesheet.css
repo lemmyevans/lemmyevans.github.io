@@ -58,22 +58,26 @@ a {
 		float: left;
 		width: 45%;
 		display: block;
-		background-color: white;
-		border: 1px solid black;		
 }
 
 #slideshow {
     display: block;
     width: 100%;
     float: left;
+    margin-top: 10px;
+}
+
+#stage {
+    height: 350px;
 }
 
 #stage img {
-    max-width: 60%;
-    min-width: 60%;
-    margin-right: auto;
-    margin-left: auto;
-    display: block;
+    position: absolute;
+    width: 60%;
+    margin-left: 2.5%;
+    height: 350px;
+    object-fit: cover;
+    overflow: hidden;
 }
 
 /* Vertical Nav Bar*/
@@ -101,8 +105,8 @@ li a {
 		height: 20px;
 		text-decoration: none;
 		color: #74291c;
-        font-weight:bold;
-        padding-top:20px;
+                font-weight:bold;
+                padding-top:20px;
 		padding-bottom: 20px;
 	}
 	
@@ -134,7 +138,7 @@ li a:hover {
 		display: block;
 		float: left;
 		width: 100%;
-		height: 325px;
+		height: 340px;
 		margin-top: 20px;
 		background-color: #999865;
 		border-radius: 5px;
@@ -182,6 +186,10 @@ p.desc {
 
 /* For smaller screens */
 @media only screen and (max-width: 650px) {
+        #body {
+	    overflow: hidden;
+	}
+	
 	#header {
 		height: 100px;
 		background-size:800px 100px;
@@ -198,11 +206,10 @@ p.desc {
 	#sidebar {
 		width: 100%;
 		height: 400px;
-		
 	}
 	
 	#contact {
-	    height: 200px;
+	    height: 175px;
 	    font-size: 10px; /*Making Contact Smaller*/
 	}
 	
@@ -210,16 +217,22 @@ p.desc {
 		width: 100%;
 		float: left;
 		padding: none;
-		margin-top: 75px;
+		margin-top: 60px;
+	}
+
+	#slideshow {
+	    width: 92.5%;
+	    float: none;
 	}
 	
 	#stage {
-	        max-width: 95%;
-	        min-width: 95%;
-		margin-left: auto;
-		margin-right: auto;
-		float: left;
-		display: block;
+	    height: 250px;
+	}
+
+	#stage img {
+	    height: 250px;
+	    width: 92.5%;
+	    margin-left: 0;
 	}
 	
 	.maintext {
