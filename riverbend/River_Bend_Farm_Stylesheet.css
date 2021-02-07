@@ -73,9 +73,9 @@ a {
 
 #stage img {
     position: absolute;
-    width: 60%;
-    margin-left: 2.5%;
+    margin-left: 13%;
     height: 350px;
+    width: 550px;
     object-fit: cover;
     overflow: hidden;
 }
