@@ -63,21 +63,26 @@ a {
 #slideshow {
     display: block;
     width: 100%;
-    float: left;
     margin-top: 10px;
 }
 
 #stage {
-    height: 350px;
+    height: 320px;
+    width: 450px;
+    display: block;
+    margin-right: auto;
+    margin-left:auto;
+    overflow: hidden;
 }
 
 #stage img {
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+    max-width: 500px;
+    min-width: 450px;
+    display: block;
     position: absolute;
-    margin-left: 13%;
-    height: 350px;
-    width: 550px;
-    object-fit: cover;
-    overflow: hidden;
 }
 
 /* Vertical Nav Bar*/
@@ -222,15 +227,16 @@ p.desc {
 
 	#slideshow {
 	    width: 92.5%;
-	    float: none;
+	    float: left;
 	}
 	
 	#stage {
-	    height: 250px;
+	    height: 300px;
+	    float: left;
 	}
 
 	#stage img {
-	    height: 250px;
+	    height: 300px;
 	    width: 92.5%;
 	    margin-left: 0;
 	}
